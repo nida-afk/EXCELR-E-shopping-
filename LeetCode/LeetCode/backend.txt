@@ -1,0 +1,22 @@
+backend
+==========
+pathname in command prompt
+
+command
+===================
+
+node index.js
+
+
+===========================================
+
+frontend
+==========
+pathname in command prompt
+
+command
+==================
+
+npm run dev
+
+o
