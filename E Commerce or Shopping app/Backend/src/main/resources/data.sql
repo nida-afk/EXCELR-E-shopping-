@@ -1,5 +1,5 @@
 --Insert into user table
-INSERT INTO User (id,username, password, email, phone_number, role)
+INSERT INTO user (id,username, password, email, phone_number, role)
 VALUES 
 (1, 'admin', 'admin@123', 'admin@123', NULL, 'ROLE_ADMIN'),
 (2, 'test', 'test@123', 'test@123', NULL, 'ROLE_USER');
